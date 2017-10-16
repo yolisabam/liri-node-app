@@ -1,5 +1,3 @@
-console.log('this is loaded');
-
 var keys = {
       twitterKeys: {
       consumer_key:'3UWdP5h8QzXraJaS5yY2vVuif',
@@ -9,8 +7,8 @@ var keys = {
       },
 
       spotifyKeys: {
-        client_id:'a358594e7b084c2cb090edOf25332298',
-        client_secret:'efa2c3d68b1348c5afe1e849d946a983',
+        client_id:'463ee2bca68543128211c8b961e6c252',
+        client_secret:'5d5ce7830f514a488d66e9f2fd63d016',
       }
 
 }
